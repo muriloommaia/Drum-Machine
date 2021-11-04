@@ -2,7 +2,7 @@
 
 Repositório criado para armazenar o projeto de bateria, desenvolvido por mim.
 
-`Acesse a pagina:` [aqui](https://muriloommaia.github.io/Drum-Machine/)
+`Acesse a página:` [aqui](https://muriloommaia.github.io/Drum-Machine/)
 
 ## Tecnologias Usadas
 
